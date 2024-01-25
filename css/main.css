@@ -1,0 +1,48 @@
+button {
+    height: auto;
+    width: auto;
+    font-size: 25px;
+    background-color: #525eba;
+    text-shadow: black;
+    font-family: cursive;
+    color: rgb(255, 255, 255);
+    border-radius: 15px;    
+    cursor: url('../images/icons/cur.svg'), auto;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    
+}
+body {
+    height: 32;
+    width: 32;
+    background-image: url('../images/stud_red.png');
+    background-repeat: repeat;
+    cursor: url('../images/icons/sword.png'), auto;
+    
+}
+audio {
+
+    cursor: url('../images/icons/cur.svg'), auto;
+    top: 0px;
+    left: 0px;
+    width: 500px;
+    height: 40px;
+    visibility: visible;
+}
+img {
+    top: 0px;
+    left: 0px;
+    width: 200;
+    height: 400;
+    cursor: url('../images/icons/cur_default.svg'), auto;    
+}
+label{
+    font-family: cursive;
+
+}
+
+input{
+    font-family: cursive;
+
+}
